@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FoXZiOxTHUGbVNYmSbI_FQ" Reference="FvO6p0mxkUymVexazO6cKg/JGhnzMBvrECfXty7Q_akVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?q=top+250+movies&amp;sca_esv=868ce55768cd652f&amp;sca_upv=1&amp;sxsrf=ADLYWIJwQoHn6piq8PjxL_eIOT9Eoa2pSg%3A1722023004531&amp;source=hp&amp;ei=XPyjZsDEHv-LseMP38CX2Qo&amp;iflsig=AL9hbdgAAAAAZqQKbGbUmExYeH4IYAC_zz4sTvaNFJAj&amp;oq=TOp+&amp;gs_lp=Egdnd3Mtd2l6IgRUT3AgKgIIADIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTINEAAYgAQYsQMYQxiKBTITEC4YgAQYsQMYQxiDARjUAhiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIIEAAYgAQYsQMyChAAGIAEGEMYigVIwf4PUP_sD1i08g9wAXgAkAEAmAGsBKABvQyqAQkyLTEuMC4yLjG4AQPIAQD4AQGYAgWgApMNqAILwgIGELMBGIUEwgIQEAAYAxjlAhjqAhiMAxiPAcICEBAuGAMY5QIY6gIYjAMYjwHCAgoQLhiABBhDGIoFwgINEC4YgAQYQxjUAhiKBcICBRAAGIAEwgILEAAYgAQYsQMYgwGYAymSBwkxLjAuMS4wLjOgB_Ui&amp;sclient=gws-wiz" CVScreenId="e4724790-0b13-47f1-8149-1362b9d1e273" CvTextArea="188, 357, 193, 18" CvTextArgument="IMDb Top 250 Movies" CvType="Text" DesignTimeRectangle="188, 349, 193, 31" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H3' aaname='?*b Top*' check:innerText='IMDb Top 250 Movies' /&gt;" Guid="44b00864-b7cb-49c8-9c13-6ca73a5ebb65" ScopeSelectorArgument="&lt;html app='chrome.exe' title='top 250 movies - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5f11d59f234ce2e0cb943d7cb6414943.png" xmlns="">0hVfnsL5GUUuLkglrRIepvg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
